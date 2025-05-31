@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+plotly
+ipykernel
+streamlit
+pyarrow
+nbformat
+kaleido==0.2.1
